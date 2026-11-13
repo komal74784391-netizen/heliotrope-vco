@@ -1,4 +1,4 @@
-// Heliotrope VCO (MOD-HV2) calibration firmware
+// Heliotrope VCO calibration firmware
 // Lumen Rack Collective - production revision
 #include <avr/io.h>
 #include <util/delay.h>

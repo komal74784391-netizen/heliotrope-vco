@@ -1,4 +1,4 @@
-# Heliotrope VCO (MOD-HV2) (MOD-HV2)
+# Heliotrope VCO (MOD-HV2)
 
 Through-zero VCO with a temperature-compensated exponential converter.
 

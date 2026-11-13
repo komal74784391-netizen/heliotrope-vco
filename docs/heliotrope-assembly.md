@@ -1,4 +1,4 @@
-# Heliotrope VCO (MOD-HV2) assembly notes
+# Heliotrope VCO assembly notes
 
 1. Populate the power section first and verify +/-12 V rails before fitting
    the analog board.
